@@ -14,3 +14,7 @@ Se trata de un proyecto verde como una lima que pretende poder controlar un serv
 2. clonar el proyecto en el directorio deseado
 3. con el comando 'npm install' instalar las dependencias (node_modules)
 4. con el comando 'npm install -D' instalar las dependencias de desarrollo como nodemon (node_modules)
+
+## TODOS importantes
+
+- traducir cosas
