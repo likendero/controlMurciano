@@ -1,6 +1,6 @@
 # Control murciano
 
-Se trata de un proyecto verde como una lima que pretende poder controlar un servidor web con botones
+Se trata de un proyecto verde como una lima 🍋 que pretende poder controlar un servidor web con botones
 
 ## cosas para investigar
 
